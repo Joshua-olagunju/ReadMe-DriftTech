@@ -75,7 +75,9 @@ Learned how to align user experience with backend logic
 ## 🧑‍🎓 Author
 Joshua Olagunju
 Front-End Developer | UI/UX Designer | Cybersecurity Enthusiast
+
 GitHub    https://github.com/Joshua-olagunju
+
 LinkedIn  https://www.linkedin.com/in/joshuaolagunju/
 
 ## 📄 License
